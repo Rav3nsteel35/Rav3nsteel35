@@ -1,4 +1,4 @@
-<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I like to code... (with style)</a>
+<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I like to code... (with style)</a></h1>
 
 I'm Mervyn, a computer science student at the University of Rochester!
 
