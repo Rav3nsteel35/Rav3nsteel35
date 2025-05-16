@@ -6,7 +6,7 @@ I'm Mervyn, a computer science student at the University of Rochester!
 
 <h2>About me:</h2>
 
-I aim to explore the intersection between AI and natural languages 
+📚 I aim to explore the intersection between AI and natural languages 
 
 🎯 Goals: I've been trying to combine AI and natural languages to enhance the language learning process (specifically east asian languages) using chatbots and gamification 
 
