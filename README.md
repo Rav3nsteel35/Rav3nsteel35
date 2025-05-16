@@ -12,3 +12,13 @@ I'm Mervyn, a computer science student at the University of Rochester!
 
 🎲 Fun fact: I've read well over a thousand books.
 
+## I code with
+
+[![Skill Name](https://img.shields.io/badge/-SkillName-blue?style=flat&logo=skill-icon&logoColor=white)]()
+[![Another Skill](https://img.shields.io/badge/-AnotherSkill-green?style=flat&logo=another-icon&logoColor=white)]()
+
+
+## Contact me
+
+📫 How to reach me: [mwinn5@u.rochester.edu](mwinn5@u.rochester.edu)  
+💼 LinkedIn: [Mervyn Winn](https://www.linkedin.com/in/mervyn-winn-961276180/)  
