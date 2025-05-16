@@ -1,6 +1,4 @@
-<h1>Hi, I'm Merv! <br/><a href="https://github.com/joshmadakor1">I like to code</a>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I like to code... (with style)</a>
 
 I'm Mervyn, a computer science student at the University of Rochester!
 
@@ -14,8 +12,11 @@ I'm Mervyn, a computer science student at the University of Rochester!
 
 ## I code with
 
-[![Skill Name](https://img.shields.io/badge/-SkillName-blue?style=flat&logo=skill-icon&logoColor=white)]()
-[![Another Skill](https://img.shields.io/badge/-AnotherSkill-green?style=flat&logo=another-icon&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-SkillName-blue?style=flat&logo=skill-icon&logoColor=white)]()
+[![Java](https://img.shields.io/badge/-AnotherSkill-green?style=flat&logo=another-icon&logoColor=white)]()
+[![Javascript](https://img.shields.io/badge/-AnotherSkill-green?style=flat&logo=another-icon&logoColor=white)]()
+[![HTML & CSS](https://img.shields.io/badge/-AnotherSkill-green?style=flat&logo=another-icon&logoColor=white)]()
+
 
 
 ## Contact me
