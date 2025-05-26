@@ -59,7 +59,7 @@ Stuff I actually care about:
 ## 🧃 Reach me on here (I might respond if I have enough time in my schedule) 
 
 - 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… very infrequently 
-- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of corpo industries)
+- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of Mervcorp industries)
 - 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – it’s like GitHub but with blazers and buzzwords
 
 ---
