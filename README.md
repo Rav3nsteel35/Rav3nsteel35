@@ -71,8 +71,7 @@ Currently in development, like my coping mechanisms.
 
 - 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… very infrequently 
 - 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of Mervcorp industries)
-- 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – it’s like GitHub but with blazers and buzzwords
-
+- 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – I practice my networking jargon here!
 ---
 
 > ⚠️ Notice: I've been working at McDonalds the past few weeks and it's wearing me down (I'm serious this time) 
