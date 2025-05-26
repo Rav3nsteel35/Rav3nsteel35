@@ -1,7 +1,7 @@
 <h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I love having computers run my code for me because I'm not very athletic </a></h1>
 
 <h2>"Experience"</h2>
-# 🧠 Mervyn Winn – AI Linguistic Overlord & Coffee-Stained Code Alchemist
+# 🧠 Mervyn Winn – AI Linguistic Overlord & CEO of fortune 500 MervCorp 
 
 > “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod and destroying the company infrastructure 
 
