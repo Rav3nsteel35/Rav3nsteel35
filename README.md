@@ -3,10 +3,9 @@
 <h2>"Experience"</h2>
 # 🧠 Mervyn Winn – AI Linguistic Overlord & Coffee-Stained Code Alchemist
 
-> “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod
+> “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod and destroying the company infrastructure 
 
-Welcome to my ted talk. I’m Merv, ceo of my startup, Corpo Industries, that I've been starting up for 10 years and hasn't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonals worker
-
+Welcome to my ted talk. I’m Merv, ceo of my startup, mervcorp Industries, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonals worker
 ---
 
 ## 📚 Lore
