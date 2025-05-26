@@ -1,22 +1,31 @@
 <h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I love having computers run my code for me because I'm not very athletic </a></h1>
 
-I'm Mervyn
-
-<h2>About me:</h2>
+<h2>"Experience"</h2>
 # 🧠 Mervyn Winn – AI Linguistic Overlord & Coffee-Stained Code Alchemist
 
 > “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod
 
-Welcome to my ted talk. I’m Merv, ceo of my startup that I've been starting up for 10 years and hasn't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor 
+Welcome to my ted talk. I’m Merv, ceo of my startup, Corpo Industries, that I've been starting up for 10 years and hasn't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonals worker
+
+---
+
+## 📚 Lore
+
+- 📖 Read 1,000+ books (Japanese manga volumes for “research”) 
+- 👾 Beat gaming addiction by replacing it with LeetCode addiction!
+- 💬 Spoke more to GPT than to humans this year
+- 🔥 Once trained a chatbot that accidentally became too emotionally supportive
 
 ---
 
 ## 🧬 Mission
 
-Build the first *AI-powered anime waifu* that can teach Korean, cure loneliness, and maybe debug your merge conflicts (still in beta). Gamified, story-driven, and emotionally unavailable.  
+Build the first *AI-powered girlfriend* that can teach any languge, cure loneliness, and maybe debug merge conflicts
 *For educational purposes only.*
 
 ---
+
+> Fluent in Python, Java, and linkedin networking 🤓
 
 ## 🛠️ Skills & Tech Arsenal
 
@@ -28,20 +37,14 @@ Build the first *AI-powered anime waifu* that can teach Korean, cure loneliness,
 ![GPT Whisperer](https://img.shields.io/badge/-GPT_Whisperer-critical?style=flat&logo=openai&logoColor=white)
 ![LeetCode Survivor](https://img.shields.io/badge/-LeetCode_Survivor-yellow)
 
-> Fluent in Python, Java, and existential dread.
-
 ---
 
-## 📚 Lore
+## 🚧 Current Projects
 
-- 📖 Read 1,000+ manga volumes for “research”
-- 👾 Beat gaming addiction by replacing it with LeetCode addiction
-- 💬 Spoke more to GPT than to humans in 2024
-- 🔥 Once trained a chatbot that accidentally became too emotionally supportive
+**obligatory sudoku project that we are all seemingly morally and legally required to have here on github**
 
----
+Stuff I actually care about: 
 
-## 🚧 Current Projects (please send help)
 
 **🧠 SenpaiGPT**  
 `→` An emotionally-aware AI tutor that teaches Korean and ranks your self-worth with emoji.
@@ -54,13 +57,13 @@ Build the first *AI-powered anime waifu* that can teach Korean, cure loneliness,
 
 ---
 
-## 🧃 Let's Interface
+## 🧃 Reach me on here (I might respond if I have enough time in my schedule) 
 
-- 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… frequently
-- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals
+- 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… very infrequently 
+- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of corpo industries)
 - 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – it’s like GitHub but with blazers and buzzwords
 
 ---
 
-> ⚠️ Warning: May contain untested code, unstable ideas, and unmatched parentheses.
+> ⚠️ Notice: I've been working at McDonalds the past few weeks and it's wearing me down (I'm serious this time) 
 
