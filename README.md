@@ -5,7 +5,7 @@
 
 > “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod and destroying the company infrastructure 
 
-Welcome to my ted talk. I’m Merv, ceo of my startup, mervcorp Industries, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonals worker
+Welcome to my ted talk. I’m Merv, ceo of my startup, mervcorp Industries, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonalds worker
 ---
 
 ## 📚 Lore
@@ -20,7 +20,7 @@ Welcome to my ted talk. I’m Merv, ceo of my startup, mervcorp Industries, that
 ## 🧬 Mission
 
 Build the first *AI-powered girlfriend* that can teach any languge, cure loneliness, and maybe debug merge conflicts
-*For educational purposes only.*
+*For educational purposes only*
 
 ---
 
