@@ -5,7 +5,7 @@
 
 > “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod and destroying the company infrastructure 
 
-Welcome to my ted talk. I’m Merv, ceo of my startup, mervcorp Industries, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonalds worker
+Welcome to my ted talk. I’m Merv, ceo of my startup, Mervcorp Industries™, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonalds worker
 ---
 
 ## 📚 Lore
@@ -70,7 +70,7 @@ Currently in development, like my coping mechanisms.
 ## 🧃 Reach me on here (I might respond if I have enough time in my schedule) 
 
 - 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… very infrequently 
-- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of Mervcorp industries)
+- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of Mervcorp Industries™)
 - 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – I practice my networking jargon here!
 ---
 
