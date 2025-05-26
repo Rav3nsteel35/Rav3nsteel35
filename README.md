@@ -45,14 +45,25 @@ Build the first *AI-powered girlfriend* that can teach any languge, cure lonelin
 ### Stuff I actually care about: 
 
 
-**🧠 SenpaiGPT**  
-`→` An emotionally-aware AI tutor that teaches Korean and ranks your self-worth with emoji.
+**🗨️ Online Chat App**  
+`→` A web-based chatroom app supporting 10+ users yelling into the void at once.  
+Built both the front-end *and* back-end. Still waiting for someone to say hi.
 
-**⚙️ LeetSage**  
-`→` A bot that solves LeetCode problems and then roasts you for your time complexity.
+**🎮 AI Learns to Play Flappy Bird**  
+`→` Used neuroevolution to train a bird-brained AI to dodge pipes better than me.  
+Game and AI coded from scratch. Surprisingly emotional journey.
 
-**📒 merv-os**  
-`→` A chaotic personal productivity system duct-taped together with Notion and raw ambition.
+**🧠 AI Korean Language Learning Aid** (WIP)
+`→` An anime-themed chatbot app that gamifies Korean learning with AI-driven conversations, outfits, and questionable life choices.  
+Educational? Yes. Weirdly charming? Also yes. (Currently in development) 
+
+**📊 AI School Performance Predictor**  
+`→` Used TensorFlow to predict student grades based on real datasets.  
+Machine learned. GPA cried.
+
+**🍳 2D Cooking Dungeon Game (WIP)**  
+`→` A Godot-powered cooking game where you battle AI enemies, explore dungeons, and try not to burn the soup.  
+Currently in development, like my coping mechanisms.
 
 ---
 
