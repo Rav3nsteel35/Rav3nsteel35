@@ -1,14 +1,15 @@
-<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I like to code... (with style)</a></h1>
+<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I love having computers run my code for me because I'm not very athletic </a></h1>
 
 I'm Mervyn, a computer science student at the University of Rochester!
 
 <h2>About me:</h2>
 
 📚 I aim to explore the intersection between AI and natural languages 
+I cured my gaming addiction by substituting it with a leet code addiction!
 
 🎯 Goals: I've been trying to combine AI and natural languages to enhance the language learning process (specifically east asian languages) using chatbots and gamification 
 
-🎲 Fun fact: I've read well over a thousand books.
+🎲 Fun fact: I've read well over a thousand books. (japanese manga) 
 
 ## I code with
 
