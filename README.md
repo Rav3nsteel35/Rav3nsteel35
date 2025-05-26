@@ -40,7 +40,7 @@ Build the first *AI-powered girlfriend* that can teach any languge, cure lonelin
 
 ## 🚧 Project description
 
-****obligatory sudoku project that we are all seemingly morally and legally required to have here on github****
+✨✨✨Obligatory sudoku Solver project that we are all seemingly morally and legally required to have here on github✨✨✨
 
 ### Stuff I actually care about: 
 
