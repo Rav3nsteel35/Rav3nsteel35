@@ -1,78 +1,91 @@
-<h1>Hi, I'm Merv! <br/><a href="https://github.com/Rav3nsteel35">I love having computers run my code for me because I'm not very athletic </a></h1>
+<h1>Hi, I'm Merv 👋</h1>
 
-<h2>"Experience"</h2>
-# 🧠 Mervyn Winn – AI Linguistic Overlord & CEO of fortune 500 MervCorp 
+<p>
+Linguistics student at the <b>University of Rochester</b> with a minor in <b>Data Science</b>.  
+I'm interested in the intersection of <b>language, machine learning, and human learning behavior</b>.
+</p>
 
-> “I don’t write bugs. I write *surprises*.” – Me, after deploying to prod and destroying the company infrastructure 
-
-Welcome to my ted talk. I’m Merv, ceo of my startup, Mervcorp Industries™, that I've been starting up for 10 years and haven't really started yet. Lead researcher of research methodology at a random research univerity + lead team lead on the management team working on heuristic analysis of league of legends players' shower time per yearly quarter + janitor / Part-time mcdonalds worker
----
-
-## 📚 Lore
-
-- 📖 Read 1,000+ books (Japanese manga volumes for “research”) 
-- 👾 Beat gaming addiction by replacing it with LeetCode addiction!
-- 💬 Spoke more to GPT than to humans this year
-- 🔥 Once trained a chatbot that accidentally became too emotionally supportive
+<p>
+I like building projects that explore how people learn, interact with technology, and generate interesting data.
+</p>
 
 ---
 
-## 🧬 Mission
+## 🚀 What I'm Currently Working On
 
-Build the first *AI-powered girlfriend* that can teach any languge, cure loneliness, and maybe debug merge conflicts
-*For educational purposes only*
+### 🧠 Korean Language Learning App (WIP)
+A web app that helps users practice Korean vocabulary while collecting learning data.
 
----
+Features:
+- Tracks **response time and answer accuracy**
+- Uses **spaced repetition scheduling**
+- Stores user learning data with **Supabase**
+- Built with **Python + Streamlit**
 
-> Fluent in Python, Java, and linkedin networking 🤓
-
-## 🛠️ Skills & Tech Arsenal
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GPT Warrior](https://img.shields.io/badge/-GPT_Whisperer-critical?style=flat&logo=openai&logoColor=white)
-![LeetCode Survivor](https://img.shields.io/badge/-LeetCode_Survivor-yellow)
+Goal: analyze language learning behavior and improve vocabulary retention.
 
 ---
 
-## 🚧 Project description
+## 💻 Projects
 
-✨✨✨Obligatory sudoku Solver project that we are all seemingly morally and legally required to have here on github✨✨✨
+### 🎮 Neuroevolution Flappy Bird AI
+Trained an AI to play Flappy Bird using **NEAT (NeuroEvolution of Augmenting Topologies)**.
 
-### Stuff I actually care about: 
-
-
-**🗨️ Online Chat App**  
-`→` A web-based chatroom app supporting 10+ users yelling into the void at once.  
-Built both the front-end *and* back-end. Still waiting for someone to say hi.
-
-**🎮 AI Learns to Play Flappy Bird**  
-`→` Used neuroevolution to train a bird-brained AI to dodge pipes better than me.  
-Game and AI coded from scratch. Surprisingly emotional journey.
-
-**🧠 AI Korean Language Learning Aid** (WIP)
-`→` An anime-themed chatbot app that gamifies Korean learning with AI-driven conversations, outfits, and questionable life choices.  
-Educational? Yes. Weirdly charming? Also yes. (Currently in development) 
-
-**📊 AI School Performance Predictor**  
-`→` Used TensorFlow to predict student grades based on real datasets.  
-Machine learned. GPA cried.
-
-**🍳 2D Cooking Dungeon Game (WIP)**  
-`→` A Godot-powered cooking game where you battle AI enemies, explore dungeons, and try not to burn the soup.  
-Currently in development, like my coping mechanisms.
+- Implemented genetic evolution for neural networks
+- Simulated multiple generations of agents
+- Visualized training progress
 
 ---
 
-## 🧃 Reach me on here (I might respond if I have enough time in my schedule) 
+### 📊 Student Performance Prediction
+Machine learning model that predicts academic performance using real datasets.
 
-- 💻 [GitHub](https://github.com/Rav3nsteel35) – where I commit… very infrequently 
-- 📬 [Email](mailto:mwinn5@u.rochester.edu) – I check this more often than my own vitals (only natural as the ceo of Mervcorp Industries™)
-- 👔 [LinkedIn](https://www.linkedin.com/in/mervyn-winn-961276180/) – I practice my networking jargon here!
+- Built with **TensorFlow**
+- Data preprocessing and feature engineering
+- Model training and evaluation
+
 ---
 
-> ⚠️ Notice: I've been working at McDonalds the past few weeks and it's wearing me down (I'm serious this time) 
+### 💬 Online Chat App
+Real-time web chatroom supporting multiple users.
 
+- Full-stack project
+- Built both front-end and back-end
+- Supports simultaneous messaging between users
+
+---
+
+## 🛠️ Tech I Use
+
+- **Python**
+- **Java**
+- **JavaScript**
+- **SQL**
+- **TensorFlow**
+- **HTML / CSS**
+- **Data Analysis**
+- **Machine Learning**
+
+---
+
+## 🎯 Interests
+
+- Language learning technology
+- Natural language processing
+- Machine learning
+- Learning analytics
+- AI-assisted education
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/Rav3nsteel35  
+- 👔 LinkedIn: https://www.linkedin.com/in/mervyn-winn-961276180  
+- 📬 Email: mwinn5@u.rochester.edu  
+
+---
+
+<p>
+Currently looking for <b>Data Science / Machine Learning / Analytics internships for Summer 2026</b>.
+</p>
