@@ -1,4 +1,4 @@
-<h1>Hi, I'm Merv 👋</h1>
+<h1>Hi, I'm Merv 👋🏾</h1>
 
 <p>
 Linguistics student at the <b>University of Rochester</b> with a minor in <b>Data Science</b>.  
@@ -11,9 +11,9 @@ I like building projects that explore how people learn, interact with technology
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
-### 🧠 Korean Language Learning App (WIP)
+### Korean Language Learning App (WIP)
 A web app that helps users practice Korean vocabulary while collecting learning data.
 
 Features:
